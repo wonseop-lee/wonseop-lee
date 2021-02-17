@@ -7,9 +7,9 @@
 - Instagram clone
 - Ajax project
 
+#### Completed Full Immersion Web Development program in Feb 2021
 
-
-### Currently
+#### Currently
 - Working full time at Overwatch League, Blizzard Entertainment
 - Working to add new features on Marble
 
