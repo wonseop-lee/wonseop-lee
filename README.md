@@ -1,6 +1,8 @@
 ## Hi there :wave: welcome!
 
 #### I'm Wonseop, fullstack developer located in Southern California :tangerine:.
+While working for Overwatch League 3+ years providing operational support, I've witnessed software engineers in development teams make new tools, new features, and new designs every month. My passion for software engineering that I buried to join Blizzard came back to me. I decided to pursue the passion and completed fullstack web development program from LearningFuze in February 2020.
+
 ---
 ### Personal Projects
 **Marble**
