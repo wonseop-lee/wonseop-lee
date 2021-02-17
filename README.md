@@ -1,7 +1,7 @@
 ## Hi there :wave: welcome!
 
 #### I'm Wonseop, fullstack developer located in Southern California :tangerine:.
-
+---
 ### Personal Projects
 **Marble**
 - Instagram clone
