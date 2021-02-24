@@ -13,8 +13,8 @@ While working for Overwatch League 3+ years providing operational support, I've 
 
 
 ### Currently
-- Working full time at Overwatch League, Blizzard Entertainment
-- Working to add new features on Marble
+- Working full time at **Overwatch League, Blizzard Entertainment**
+- Working to add new features on **Marble**
 
 #### Completed Full Immersion Web Development program in Feb 2021
 
