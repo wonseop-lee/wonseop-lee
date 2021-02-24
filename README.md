@@ -11,12 +11,12 @@ While working for Overwatch League 3+ years providing operational support, I've 
 **Vehicle VIN Decoder**
 - a Ajax project that decodes VIN of a vehicle that fetches vehicle data from NHTSA Api
 
-#### Completed Full Immersion Web Development program in Feb 2021
 
-#### Currently
+### Currently
 - Working full time at Overwatch League, Blizzard Entertainment
 - Working to add new features on Marble
 
+#### Completed Full Immersion Web Development program in Feb 2021
 
 
 <!--
