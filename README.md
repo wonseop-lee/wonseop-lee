@@ -6,8 +6,9 @@ While working for Overwatch League 3+ years providing operational support, I've 
 ---
 ### Personal Projects
 **Marble**
-- Instagram clone
-- Ajax project
+- an Instagram clone that users can interact with basic features of Instagram
+**Vehicle VIN Decoder**
+- a Ajax project that decodes VIN of a vehicle that fetches vehicle data from NHTSA Api
 
 #### Completed Full Immersion Web Development program in Feb 2021
 
