@@ -7,9 +7,11 @@ While working for Overwatch League 3+ years providing operational support, I've 
 ### Personal Projects
 **Marble**
 - an Instagram clone that users can interact with basic features of Instagram
+- React, PostgreSQL, Express
 
 **Vehicle VIN Decoder**
-- a Ajax project that decodes VIN of a vehicle that fetches vehicle data from NHTSA Api
+- a Ajax project that decodes VIN of a vehicle by fetching vehicle data from NHTSA Api
+- Javascript, CSS3, HTML5
 
 
 ### Currently
